@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Lab3\Car\bin\Debug\netcoreapp2.1\Car.deps.json
+C:\Users\User\Desktop\Lab3\Car\bin\Debug\netcoreapp2.1\Car.runtimeconfig.json
+C:\Users\User\Desktop\Lab3\Car\bin\Debug\netcoreapp2.1\Car.runtimeconfig.dev.json
+C:\Users\User\Desktop\Lab3\Car\bin\Debug\netcoreapp2.1\Car.dll
+C:\Users\User\Desktop\Lab3\Car\bin\Debug\netcoreapp2.1\Car.pdb
+C:\Users\User\Desktop\Lab3\Car\bin\Debug\netcoreapp2.1\States.dll
+C:\Users\User\Desktop\Lab3\Car\bin\Debug\netcoreapp2.1\States.pdb
+C:\Users\User\Desktop\Lab3\Car\obj\Debug\netcoreapp2.1\Car.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab3\Car\obj\Debug\netcoreapp2.1\Car.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab3\Car\obj\Debug\netcoreapp2.1\Car.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lab3\Car\obj\Debug\netcoreapp2.1\Car.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab3\Car\obj\Debug\netcoreapp2.1\Car.csproj.CopyComplete
+C:\Users\User\Desktop\Lab3\Car\obj\Debug\netcoreapp2.1\Car.dll
+C:\Users\User\Desktop\Lab3\Car\obj\Debug\netcoreapp2.1\Car.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Lab3\States\bin\Debug\netstandard2.0\States.deps.json
+C:\Users\User\Desktop\Lab3\States\bin\Debug\netstandard2.0\States.dll
+C:\Users\User\Desktop\Lab3\States\bin\Debug\netstandard2.0\States.pdb
+C:\Users\User\Desktop\Lab3\States\obj\Debug\netstandard2.0\States.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab3\States\obj\Debug\netstandard2.0\States.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab3\States\obj\Debug\netstandard2.0\States.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Lab3\States\obj\Debug\netstandard2.0\States.AssemblyInfo.cs
+C:\Users\User\Desktop\Lab3\States\obj\Debug\netstandard2.0\States.dll
+C:\Users\User\Desktop\Lab3\States\obj\Debug\netstandard2.0\States.pdb
